@@ -31,10 +31,10 @@
 		</developer>
 	</developers>
 	<scm>
-		<connection/>
-		<developerConnection/>
-		<tag/>
-		<url/>
+		<connection>scm:git:https://github.com/tstangenberg/enlab-cmdline.git</connection>
+		<developerConnection>scm:git:https://github.com/tstangenberg/enlab-cmdline.git</developerConnection>
+		<url>https://github.com/tstangenberg/enlab-cmdline</url>
+		<tag>HEAD</tag>
 	</scm>
 	<properties>
 		<java.version>21</java.version>
